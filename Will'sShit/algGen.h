@@ -1,0 +1,15 @@
+int pickCase();
+void setV(int&);
+void setAll(int&,int&,int&);
+void findY(int&,int&,int&,int&);
+bool flipCoin();
+void printError();
+void setLoops(int&);
+void correctZeros(int& m, int& x, int& b);
+void printYMXB(int& y,int& m,int& b);
+void printYBMX(int& y,int& m,int& b);
+void printMXBY(int& y,int& m,int& b);
+void printBMXY(int& y,int& m,int& b);
+void printProbNum(int i);
+void printProblem(int& y,int& m,int& b);
+//void setChanceOfZeros(int& z);
